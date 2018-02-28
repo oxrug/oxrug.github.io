@@ -1,4 +1,4 @@
-The Oxford Ruby User Group website - [OxRUG.org](http://oxrug.org)
+The Oxford Ruby User Group website - [OxRUG.org](https://oxrug.github.io/)
 
 ### Contributing
 
